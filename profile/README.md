@@ -1,2 +1,2 @@
 
-![arch1](images/bg2.png)
+![arch1](../images/bg2.png)
