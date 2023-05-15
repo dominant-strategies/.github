@@ -14,4 +14,4 @@ We're Hiring! Open Roles: https://angel.co/company/quai-network/jobs \
 Academic Research/Whitepaper: https://arxiv.org/pdf/2112.11072.pdf \
 Litepaper: https://quai.network/litepaper.pdf \
 Forum: https://forum.qu.ai/ \
-Dashboard: https://dashboard.quai.network/ \ 
+Dashboard: https://dashboard.quai.network/ 
