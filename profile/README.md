@@ -10,7 +10,7 @@ TikTok: https://www.tiktok.com/@quainetwork \
 Telegram (Announcements): https://t.me/QuaiNetwork \
 Telegram (Chat): https://t.me/+8g_NAoblo643ODhh \
 Reddit: https://www.reddit.com/r/quainetwork/ \
-We're Hiring! Open Roles: https://angel.co/company/quai-network/jobs \
+We're Hiring! Open Roles: https://wellfound.com/company/dominant-strategies \
 Academic Research/Whitepaper: https://arxiv.org/pdf/2112.11072.pdf \
 Litepaper: https://quai.network/litepaper.pdf \
 Forum: https://forum.qu.ai/ \
